@@ -1,0 +1,12 @@
+.card {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.disabled {
+    pointer-events: none;
+}
+.un-disabled {
+    pointer-events: auto;
+}

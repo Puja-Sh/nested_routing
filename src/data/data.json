@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "01",
+      "title": "Dogs",
+      "sectionTitle": "Dog is an animal",
+      "content": ["part1", "part2", "part2"]
+    },
+    {
+      "id": "02",
+      "title": "Cats Page",
+      "sectionTitle": "Dog is an animal",
+      "content": ["part1", "part2", "part3"]
+    }
+  ]
+}
